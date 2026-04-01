@@ -166,3 +166,6 @@ footer {
     box-shadow: 0 3px 10px rgba(0, 191, 255, 0.3);
 }
 
+.button{
+    text-align: center;
+}
