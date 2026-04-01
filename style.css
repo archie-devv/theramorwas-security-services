@@ -1,4 +1,4 @@
-        *}  
+        *{  
 		    margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -47,7 +47,7 @@
         nav {
             text-align: center;
             padding: 15px;
-            background: rgba(0,0,0,0.8); *******
+            /*background: rgba(0,0,0,0.8);*/
         }
 
         nav a {
