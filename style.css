@@ -142,16 +142,17 @@ footer {
 			align-items: center;
 			display: inline-block;
 			padding: 12px 25px;
-			background-color: #00bcd4;
+			background-color: #00bfff;
 			color: white;
 			text-decoration: none;
 			border-radius: 5px;
 			font-weight: bold;
+			border: 2px solid #ffffff;
 			
 		}
 
 		.btn:hover {
-			background-color: #0097a7;
+			background-color: 
 		}
 
 
