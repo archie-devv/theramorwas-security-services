@@ -138,19 +138,22 @@ footer {
     }
 }
 
-		.btn {
-			display: inline-block;
-			padding: 12px 25px;
-			background-color: #00bcd4;
-			color: white;
-			text-decoration: none;
-			border-radius: 5px;
-			font-weight: bold;
-			color: #00bfff;
-		}
+.btn {
+    display: inline-block;
+    padding: 12px 28px;
+    border: 1.5px solid #00bfff;
+    color: #00bfff;
+    background: transparent;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
 
-		.btn:hover {
-			background-color: #0097a7;
-		}
+.btn:hover {
+	background-color: #0097a7;
+}
 
 
